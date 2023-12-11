@@ -117,5 +117,11 @@ And then finally, run the last 3 code blocks in the file, starting with:
 
     live_detection_transform = transform_pipeline_test
 
+## Future Developments
+
+While both models are usable and working, their is still much to explore and develop - To begin, more images (diverse range) will be added. Both implementations could do with further parameter tweaking especially the image classification model where architecture and hyper-parameter tweaking proved to be quite time-consuming and requires continual iteration in order to hone-in.
+
+NOTE: Both models were trained locally and without a GPU - more performant hardware is expected and thus faster iteration/development. Stay tuned.
+
 
 
